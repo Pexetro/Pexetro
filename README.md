@@ -21,8 +21,8 @@ Aqui você pode acompanhar alguns dos meus projetos e desafios em meio a tecnolo
 ### 🧰Outras ferramentas
 [![My Skills](https://skillicons.dev/icons?i=github,figma,docker,linux,idea,arduino,postman)](https://skillicons.dev)
 
-## Conecte-se comigo
+## 🌐Conecte-se comigo
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/pedro-gense)
 
-## 🌐 Obrigado por visitar meu perfil! 🥳
+## Obrigado por visitar meu perfil! 🥳
 Espero que tenha gostado e encontrado algo interessante por aqui!!
