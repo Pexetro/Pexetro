@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Pedro Cristiano Gense 
-Sou um estudante da Fatec Osasco, atualmente estou buscando minha primeira vaga na área de tecnologia.
+Sou um estudante da Fatec Osasco, atualmente estou buscando minha primeira vaga na área.
 
-# Bem vindo ao meu Github!
+# 🎉Bem vindo ao meu Github!
 Aqui você pode acompanhar alguns dos meus projetos e desafios em meio a tecnologia.
 
 ## Algumas tecnologias que uso!
