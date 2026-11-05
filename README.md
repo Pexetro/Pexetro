@@ -2,7 +2,7 @@
 Sou um estudante da Fatec Osasco, atualmente estou buscando minha primeira vaga na área de tecnologia.
 
 # Bem vindo ao meu Github!
-Aqui você pode acompanhar alguns dos meus projetos e desafios em meio a tecnologia
+Aqui você pode acompanhar alguns dos meus projetos e desafios em meio a tecnologia.
 
 ## Algumas tecnologias que uso!
 
